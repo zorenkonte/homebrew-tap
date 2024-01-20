@@ -6,7 +6,7 @@ A Homebrew tap containing the Formula for the SDKMAN! CLI.
 
 ```sh
 $ brew tap sdkman/tap
-$ brew install sdkman-cli
+$ brew install sdkmancli
 ```
 
 After successful installation add the following lines to the end of your `.bash_profile`
