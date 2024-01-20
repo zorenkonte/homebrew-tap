@@ -12,7 +12,7 @@ $ brew install sdkmancli
 After successful installation add the following lines to the end of your `.bash_profile`
 
 ```sh
-export SDKMAN_DIR=$(brew --prefix sdkman-cli)/libexec
+export SDKMAN_DIR=$(brew --prefix sdkmancli)/libexec
 [[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"
 ```
 
